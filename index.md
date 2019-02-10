@@ -6,6 +6,6 @@ I am a Sophomore at Boise State University where I am studying Computer Science.
 
 Coming Soon!
 
-### Contact
+### Lets Stay Connected
 * Email: ajtrantham@u.boisestate.edu
-* Phone: (360) 834-6861
+* Instagram: aj_trantham
